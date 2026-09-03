@@ -1,0 +1,10 @@
+# Arquivos gerados pela compilação do Java
+bin/
+out/
+target/
+*.class
+
+# Arquivos locais de IDE e sistema operacional
+.idea/
+*.iml
+.DS_Store

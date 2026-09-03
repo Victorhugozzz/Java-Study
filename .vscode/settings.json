@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "bin",
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.wrapTabs": false,
+}
+
+
