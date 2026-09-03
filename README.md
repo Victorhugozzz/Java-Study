@@ -1,4 +1,4 @@
-# Java Study
+# ♨ Java Study
 
 Exercícios organizados por pacote em `src/main/java`, parte do meu percurso rumo a **Backend Developer**.
 
